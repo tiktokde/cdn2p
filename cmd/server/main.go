@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	cdn2proxy "github.com/tiktokde/go-cdn2proxy"
+	cdn2proxy "github.com/tiktokde/cdn2p"
 )
 
 func main() {

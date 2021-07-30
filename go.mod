@@ -1,4 +1,4 @@
-module github.com/tiktokde/go-cdn2proxy
+module github.com/tiktokde/cdn2p
 
 go 1.15
 
